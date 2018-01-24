@@ -3,7 +3,26 @@ html{
   text-align: center;
 
 }
-ul{
-
-  list-style: none;
+header, a{
+  background-image: url("../image/the-flatiron-building.png");
+  color: white;
+}
+h1{
+  font-size: 70px;
+}
+nav {
+font-size: 18px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+#whitie{
+  color:white;
+  background-image: url("../image/the-flatiron-building.png");
 }
