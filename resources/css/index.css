@@ -3,9 +3,14 @@ html{
   text-align: center;
 
 }
-header, a{
+header{
   background-image: url("../image/the-flatiron-building.png");
+  background-size: cover;
   color: white;
+}
+a{
+  color: white;
+  font-size: 18px;
 }
 h1{
   font-size: 70px;
@@ -25,4 +30,11 @@ p {
 #whitie{
   color:white;
   background-image: url("../image/the-flatiron-building.png");
+}
+span {
+  font-size: 11px;
+}
+footer{
+  background-color: dimgray;
+  text-align: left;
 }
